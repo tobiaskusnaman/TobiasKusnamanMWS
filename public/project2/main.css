@@ -8,6 +8,22 @@ body {
   margin: 0;
 }
 
+button {
+  background-color: #2736A5;
+  color: white;
+  width: 75px;
+  height: 35px;
+  border-radius: 20px;
+}
+
+#food-input {
+  width: 40%;
+  height: 25px;
+  margin: 5px 15px;
+  padding: 5px;
+  border-radius: 20px;
+}
+
 .container {
   display: grid;
   height: 100%;
@@ -19,7 +35,7 @@ body {
   grid-column: 1/-1
 }
 .gambar {
-  background: green;
+  background: #EFB51D;
   grid-column: 1/6;
 }
 .review {

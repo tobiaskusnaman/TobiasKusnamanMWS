@@ -9,19 +9,20 @@ body {
   width: 100%;
 }
 .menu {
-  background: lightblue;
+  background: #196E97;
   grid-column: 1/5;
 }
 .sidebar {
-  background: lightyellow;
+  background: #EFB51D;
   grid-column: 1/2;
   grid-row: 2/5;
 }
 .konten {
-  background: pink;
+  background: #EFB51D;
   grid-column: 2/5;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 .calc {
   background: lightcoral;
@@ -36,7 +37,7 @@ body {
   justify-content: center;
 }
 .footer {
-  background: lime;
+  background: #2736A5;
   grid-column: 1/5;
 }
 .map {
@@ -57,4 +58,17 @@ body {
 .review {
   background: yellow;
   grid-column: 6/-1
+}
+#profile_picture {
+  width: 80%;
+  border-radius: 500px;
+  padding: 20px;
+  align-self: center;
+}
+button {
+  background-color: #2736A5;
+  color: white;
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
 }

@@ -1,0 +1,16 @@
+{
+  "short_name": "Jomato",
+  "name": "Jomato tobi",
+  "icons": [
+    {
+      "src": "/images/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "lang": "en-US",
+  "start_url": "/public/",
+  "theme_color": "#2736A5",
+  "background_color": "#EFB51D",
+  "display": "standalone"
+}
