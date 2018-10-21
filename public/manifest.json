@@ -1,6 +1,6 @@
 {
   "short_name": "Jomato",
-  "name": "Jomato tobi",
+  "name": "Jomato GDK",
   "icons": [
     {
       "src": "/images/icon.png",
@@ -9,7 +9,7 @@
     }
   ],
   "lang": "en-US",
-  "start_url": "/public/",
+  "start_url": "/",
   "theme_color": "#2736A5",
   "background_color": "#EFB51D",
   "display": "standalone"

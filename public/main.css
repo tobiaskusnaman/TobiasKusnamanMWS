@@ -24,40 +24,9 @@ body {
   align-items: center;
   justify-content: center;
 }
-.calc {
-  background: lightcoral;
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  align-items: center;
-  height: 100px;
-  width: 100%;
-}
-.calc .calc-child {
-  display: flex;
-  justify-content: center;
-}
 .footer {
   background: #2736A5;
   grid-column: 1/5;
-}
-.map {
-  display: grid;
-  height: 100%;
-  width: 100%;
-  grid-gap: 4px;
-  grid-template-columns: repeat(8, 1fr);
-  grid-template-rows: 60% 40%;
-}
-.peta {
-  grid-column: 1/-1
-}
-.gambar {
-  background: green;
-  grid-column: 1/6;
-}
-.review {
-  background: yellow;
-  grid-column: 6/-1
 }
 #profile_picture {
   width: 80%;
